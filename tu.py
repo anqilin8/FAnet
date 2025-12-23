@@ -1,6 +1,4 @@
-# 5_metrics_comparison_pro.py
-# 5项指标对比神器（mAP, Accuracy, Dice, 耗时, FPS）
-# 运行一次 → 4张顶级论文图 + PDF（投CEA秒过）
+#####FAnet
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -150,5 +148,6 @@ plt.tight_layout()
 plt.savefig("5_metrics/fig4_5d_radar.png", dpi=400, bbox_inches='tight')
 plt.savefig("5_metrics/fig4_5d_radar.pdf", bbox_inches='tight')
 plt.show()
+
 
 print("所有5项指标对比图已生成在 5_metrics 文件夹！直接插论文，审稿人看了直呼专业！")
