@@ -8,4 +8,4 @@ The dataset will be made publicly available here shortly. We are currently organ
 <img width="1075" height="370" alt="b0cd1e6a-24e1-4278-899f-f558fb169865" src="https://github.com/user-attachments/assets/03c540bd-fe4f-46c7-aac8-c4e9e97fbb7c" />
 
 
-![Uploading 5a3c1a95-7a13-4870-807e-8905af1d9105.png…]()
+<img width="1070" height="969" alt="5a3c1a95-7a13-4870-807e-8905af1d9105" src="https://github.com/user-attachments/assets/0749b010-e328-4219-a25e-c07a1c7544e2" />
